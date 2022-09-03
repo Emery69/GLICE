@@ -172,10 +172,8 @@ main {
     
 }
 
-
-
 .content2 {
-    float: left;;
+    float: left;
 }
 
 .content1 {
@@ -184,4 +182,8 @@ main {
 
 #JA {
     height: 365px;
+}
+
+.content3 {
+    float: left;
 }
